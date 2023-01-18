@@ -88,9 +88,9 @@ prepare a better team.
 
 ### <a name="Designs">Designs</a>
 
-<img src="/assets/images/Thor.png" alt="Image of Thor" width="350"/>
-<img src="/assets/images/jack_frost.png" alt="Image of Jack Frost" width="350"/>
-<img src="/assets/images/pixie.png" alt="Image of Pixie" width="350"/>
+<img src="/assets/images/Thor.png" alt="Image of Thor" width="221"/>
+<img src="/assets/images/jack_frost.png" alt="Image of Jack Frost" width="221"/>
+<img src="/assets/images/pixie.png" alt="Image of Pixie" width="221"/>
 
 I'm a sucker for mythology of various origins. Luckily for me, I've been living under a rock all this time, as SMT 
 draws inspiration from all those and more. At any given time your party will have multiple pantheons of demons such as 
