@@ -1,5 +1,5 @@
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://stuckboy-blog.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://stuckboy.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  StuckBoy
 
 permalink: :title
