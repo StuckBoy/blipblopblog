@@ -54,7 +54,7 @@ you desire in your video games.
 However, without a shadow of a doubt, the best way to experience the franchise will forever be through PC. Seeing as how
 a PC can effectively be any console prior to the Xbox One and PS4 era, it has access to every SMT game that you can 
 obtain. Again, please do your research, as some games like _Devil Survivor_ assume you have a competent understanding 
-of how the fusion mechanics work for demons.	
+of how the fusion mechanics work for demons.
 
 ## What I Liked
 1. [Combat](#Combat)
@@ -73,7 +73,7 @@ of 8 total actions you can take for the entirety of your turn. There are multipl
 utilized, either to deal maximum damage with weakness-exploiting attacks, or allow for support or healing demons to 
 prepare your party for the next round of enemy moves.
 
-Unfortunatley, it's not all positives when it comes to the press turn system. For instance, if you miss an attack, you 
+Unfortunately, it's not all positives when it comes to the press turn system. For instance, if you miss an attack, you 
 waste the move you just used, and an _additional_ turn from your pool, regardless of whether you utilized the extra 
 turns from them or not. In the worst case scenario, your attack is canceled out by an enemy, or reflected back at you. 
 This means you lose **all remaining actions**. It heavily incentivizes you to study your opponent, and not abuse 
@@ -96,9 +96,9 @@ I'm a sucker for mythology of various origins. Luckily for me, I've been living 
 draws inspiration from all those and more. At any given time your party will have multiple pantheons of demons such as 
 Thor, Apsaras or even an Archangel. The contrast of designs and mythos are made more apparent as your three main demons
 occupy the same space on the field while the rest wait on your bench. Having multiple party members present on the field
-and their designs constrasting or even showing similarities is another reason I think I was able to finish my 
-playthrough of Digimon Story Cyber Sleuth. That and the unapologetically edgey designs that quite a few digimon possess.
-If you prefer visual examples, search up _official_ artwork for Mastemon, Ravemon or Diaboromon.
+and their designs contrasting or even showing similarities is another reason I think I was able to finish my 
+playthrough of Digimon Story Cyber Sleuth. That and the edgey designs that quite a few digimon possess. If you prefer 
+visual examples, search up _official_ artwork for Mastemon, Ravemon or Diaboromon.
 
 It's no secret that at this point in my life, I've become increasingly frustrated by the designs that pokémon have 
 received. Ultimately this is personal bias because the games still sell in obscene quantities and if it's not broken 
@@ -129,16 +129,16 @@ from Pokémon.
 
 In every main entry, a specific evolution line or type will be harder to raise than others. This is usually a dragon 
 type, or a dual type featuring dragon. They also don't show up until the end of the game, as they are so powerful that 
-they can take down end game parties single-handedly. They may require a ton of grinding to make relevant, again to 
+they can take down end game parties single-handed. They may require a ton of grinding to make relevant, again to 
 offset the massive benefits you'll eventually possess. Now imagine that every pokémon required that much investment to 
 stay relevant. Regardless of the SMT game you're playing, demons you recruit along the way will take exponentially more 
 experience to keep them useful for the given challenge your character is facing. If this sounds scary, fear not, as 
-this is by design, and encourages the use of the rest of the systems SMT offers. Namely, negotating with new demons, or 
+this is by design, and encourages the use of the rest of the systems SMT offers. Namely, negotiating with new demons, or 
 fusing old ones to make slightly more powerful ones.
 
 #### By Our Powers Combined (Is this reference too old?)
-By incentivizing you to replace weaker demons by fusing or recruiting new ones, your party's playstyle can slowly shift 
-from one that is decimated by the current roadblock to one that laughs as your opponent wastes their turns having their 
+By incentivizing you to replace weaker demons by fusing or recruiting new ones, your party's plan can slowly shift from 
+one that is decimated by the current roadblock to one that laughs as your opponent wastes their turns having their 
 attacks absorbed or reflected back, canceling the rest of their turn in the process. Once, I had a party comprised of 
 glass cannons, intent on wiping out enemies before they had a chance to retaliate. I've also had a team that 
 specialized in debuffs, buffs and siphoning resources from enemies to sustain themselves.
@@ -146,7 +146,7 @@ specialized in debuffs, buffs and siphoning resources from enemies to sustain th
 There are additional benefits to fusing demons besides maintaining a play style you prefer or bringing the right 
 resistances for the enemy. One, you can always buy back the demons you're losing, in the last state you saved them as 
 in your compendium. This is less like a PC in Pokémon, and more like a bookmark to a website. Then, when you encounter 
-another enemy whose weaknesses you've already prepared for, you can pull from this repetoire of demons to quickly 
+another enemy whose weaknesses you've already prepared for, you can pull from this repertoire of demons to quickly 
 overcome them. Two, the skills your outdated demons possess are the keys to success that their fusion result desires. 
 
 You may be creating a demon who is a powerhouse with high strength, but their best moves have low accuracy. They may be 
@@ -157,7 +157,7 @@ the skill they shouldn't have to prep for attack phases, giving them a 100% hit 
 critical.
 
 As I progressed into the later portions of my playthrough, I began to notice an additional benefit that this system 
-allows. Demons that share a particular tpying such as Femme, Devil or Megami can exploit another type of demon known as 
+allows. Demons that share a particular typing such as Femme, Devil or Megami can exploit another type of demon known as 
 Elementals. Elemental demons possess an interesting feature that when they are fused with, they will either upgrade the
 demon to the next strongest one for its type, or it will downgrade to the previous one. Adding this into the already 
 packed toolbox of mechanics meant that building optimal teams was as painless as they could possibly make it.
@@ -201,5 +201,5 @@ same franchise. I'm a big supporter of games that inspire the rest of their genr
 other titles hoping to capture a bit of the essence that made that cult classic such a great entry.
 
 Obviously since SMT 5 is my first real foray into the _Shin Megami Tensei_ series, it will be the standard I use to 
-compare older titles, for better or worse. I'm excited to excperience what else is out there, and there will probably 
+compare older titles, for better or worse. I'm excited to experience what else is out there, and there will probably 
 be moments those games do better than SMT 5 could.
