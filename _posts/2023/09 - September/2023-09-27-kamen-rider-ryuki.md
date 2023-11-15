@@ -80,9 +80,11 @@ recommend you check out to test the waters:
 #### Super Sentai
 * Kyōryū Sentai Zyuranger (This became the original MMPR)
 * Mirai Sentai Timeranger (What became Power Rangers Time Force)
+
 #### Kamen Rider
 * Kamen Rider (Be warned, there's **98 episodes**)
 * Kamen Rider Ryuki (Definitely not bias)
+
 #### Ultraman
 * Ultraman '66 (The original)
 * Ultraman Tiga
