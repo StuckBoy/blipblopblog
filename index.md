@@ -19,7 +19,7 @@ It's basically business Facebook, and I check it about as often as I check real
 Facebook.
 
 ### ~~Gremlin~~ Personal Endeavors
-#### <a href=https://bsky.app/profile/stuckboy.bsky.social>Bluesky</a>
+#### <a href="https://bsky.app/profile/stuckboy.bsky.social">Bluesky</a>
 I really hope this gets opened up to the public but to be quite honest I really
 like their system of referrals only. I tend to have a lot of spare codes too so
 perhaps I should try to make some more internet friends...
