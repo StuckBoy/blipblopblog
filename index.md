@@ -19,14 +19,21 @@ It's basically business Facebook, and I check it about as often as I check real
 Facebook.
 
 ### ~~Gremlin~~ Personal Endeavors
+#### <a href=https://bsky.app/profile/stuckboy.bsky.social>Bluesky</a>
+I really hope this gets opened up to the public but to be quite honest I really
+like their system of referrals only. I tend to have a lot of spare codes too so
+perhaps I should try to make some more internet friends...
 
-#### <a name="Twitter" href="https://twitter.com/stuckboy_">Twitter</a>
-It's a lot of ramblings and fan art retweets, it's also the primary social media
-I'm connected to, until Musk decides to send the rest of the company up in 
-flames.
+#### <a name="Twitter (Basically Dead)" href="https://twitter.com/stuckboy_">Twitter (Basically Dead)</a>
+It's a lot of ramblings and fan art retweets. I hardly use it these days since 
+Musk is deciding to make it into a complete hellscape as revenge for being 
+forced to buy it as a meme.
+
+#### <a rel="me" href="https://techhub.social/@stuckboy">Mastodon</a>
+This will be my secondary fallback should [Twitter](#Twitter) go up in smoke.
 
 #### <a href="https://www.twitch.tv/stuckboy">Twitch</a>
-Be warned, the occassions where I stream are few and far between, mostly because
+Be warned, the occasions where I stream are few and far between, mostly because
 I usually can only gather enough energy to be outwardly positive for a few hours
 a month. If I am streaming, it's more than likely a second playthrough of 
 something I'm going to gush about for 3 hours or speedrunning something.
@@ -61,5 +68,7 @@ place to check. If you check this at any point and are upset by your findings,
 please do not take time out of your day to criticize my tastes, as I could not 
 possibly care any less.
 
-#### <a href="https://techhub.social/@stuckboy">Mastodon</a>
-This will be my primary fallback should [Twitter](#Twitter) go up in smoke.
+### <a href="https://www.goodreads.com/user/show/171345438-zachary">Goodreads</a>
+I recently got back into reading for pleasure and it's honestly become a bit of 
+an addition. My history is probably completely wrong since I was filing 
+everything I've read for as long as I can remember.
