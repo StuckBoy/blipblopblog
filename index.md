@@ -68,7 +68,7 @@ place to check. If you check this at any point and are upset by your findings,
 please do not take time out of your day to criticize my tastes, as I could not 
 possibly care any less.
 
-### <a href="https://www.goodreads.com/user/show/171345438-zachary">Goodreads</a>
+#### <a href="https://www.goodreads.com/user/show/171345438-zachary">Goodreads</a>
 I recently got back into reading for pleasure and it's honestly become a bit of 
 an addition. My history is probably completely wrong since I was filing 
 everything I've read for as long as I can remember.
