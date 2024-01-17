@@ -1,7 +1,7 @@
 --
 layout: post
 title: Shin Megami Tensei: Nocturne
-description: Thank you _Shin Megami Tensei: Nocturne_!
+description: Thank you Shin Megami Tensei: Nocturne!
 typora-root-url: ../../
 ---
 
