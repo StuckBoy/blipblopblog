@@ -109,7 +109,8 @@ If you're familiar with how most JRPG party screens are laid out these days,
 one would expect to see a button within the stats screen to navigate the skills.
 This is a luxury _Nocturne_ lacks. In addition to the clunky party UI, there 
 were several other menus that seemed to either not present every piece of 
-information I would hope to see there, or that entire menu options were effectively redundant.
+information I would hope to see there, or that entire menu options were 
+effectively redundant.
 
 The most glaring of redundant menus was within healing rooms, where an NPC can 
 restore your party's HP and Magic for a price. In this room, there is an 
