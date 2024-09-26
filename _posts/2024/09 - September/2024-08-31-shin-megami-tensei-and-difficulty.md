@@ -249,7 +249,7 @@ be underselling their complexity a bit. For comparison, let's look at the
 biggest underground area that you can explore in "The Elder Scrolls: Skyrim" 
 called Blackreach.
 
-<img src="/assets/images/Blackreach.jpg" alt="Map of Blackreach" title="Blackreach"/>
+<img src="/assets/images/blackreach.jpg" alt="Map of Blackreach" title="Blackreach" width="500"/>
 
 If you've never experienced the complexity of this area, it can be hard to 
 describe just through words. Typically a player would end up here after 
@@ -263,7 +263,7 @@ cohesive image.
 Now here's an image of the 1st floor of the 5th dungeon in Strange Journey, 
 Eridanus.
 
-<img src="/assets/images/Eridanus.png" alt="Map of Eridanus 1F" title="Eridanus"/>
+<img src="/assets/images/Eridanus.png" alt="Map of Eridanus 1F" title="Eridanus" width="500"/>
 
 The legend on the right-hand side describes the various symbols present on the 
 map. This labyrinth is 4 floors of winding hallways, one-way doors and hordes 
@@ -344,8 +344,8 @@ versions of Commander Gore's full body portrait. He's one of the first
 characters you'll encounter in either version, and he serves as a great A/B 
 comparison of just how much the visuals were changed for the newer edition.
 
-<img src="/assets/images/gore-sj.webp" alt="Image of Commander Gore" title="Commander Gore"/>
-<img src="/assets/images/gore-sjr.webp" alt="Image of Commander Gore (SJR)" title="Commander Gore (SJR)"/>
+<img src="/assets/images/gore-sj.webp" alt="Image of Commander Gore" title="Commander Gore" width="300"/>
+<img src="/assets/images/gore-sjr.webp" alt="Image of Commander Gore (SJR)" title="Commander Gore (SJR)" width="300"/>
 
 If I were to try and summarize the changes in a succinct way, it's like 
 comparing matte to glossy paint. No doubt this was to modernize the art style 
